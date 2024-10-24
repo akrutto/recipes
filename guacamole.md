@@ -4,6 +4,7 @@
 * lime
 * salt
 * chilli
+* sugar
 * coriander
 ## Instructions
 
