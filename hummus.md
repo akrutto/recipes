@@ -5,5 +5,7 @@
 * oil
 * Salt
 * chilli
-*sugar conflict
+* Sugar 
+* Garlic
+
 
