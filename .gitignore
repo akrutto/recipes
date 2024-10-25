@@ -1,2 +1,7 @@
 *.png
+!final.png
 receipts/
+!receipts/data
+# comment: the order is important. this would not keep final.png:
+# !final.png
+# .png
