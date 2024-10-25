@@ -1,6 +1,6 @@
 #Hummus
 ## Ingredients
-* chickpeas
+* chickpeas x 4
 * Lemon
 * oil
 * Salt
