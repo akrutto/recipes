@@ -5,3 +5,6 @@ receipts/
 # comment: the order is important. this would not keep final.png:
 # !final.png
 # .png
+.Rproj.user
+.Rhistory
+recipes.Rproj
